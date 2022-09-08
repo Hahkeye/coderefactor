@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* Background color for rest of the page */
 body {
     background-color: #d9dcd6;
 }
-
+/* Styling for header elements */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,8 +50,8 @@ a {
 p {
     font-size: 16px;
 }
-
-.hero {
+/* Css For the background images */
+.hero { 
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -59,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Bulk styling for stuff floating left and right */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -76,6 +76,7 @@ p {
     margin-left: 20px;
 }
 
+/* CSS for the bar floating on the right of the body of the page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,7 +117,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Styling for images on the right side bar */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -134,7 +135,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* CSS For the main 3 articles of the page */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -189,6 +190,7 @@ p {
     font-size: 36px;
 }
 
+/* Foorter styling */
 .footer {
     padding: 30px;
     clear: both;
